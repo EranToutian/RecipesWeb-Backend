@@ -7,7 +7,7 @@ Written in Node js & JavaScript.
 
 ## Links
 
-Git [Frontend](https://github.com/danielbs93/RecipeWeb-Frontend)
+Git [Frontend](https://github.com/EranToutian/RecipesWeb-Frontend)
 
 Swagger [API](https://app.swaggerhub.com/apis-docs/erantoutian/EatAndRepeat/1.0.0#/Recipe)
 
